@@ -1,0 +1,61 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Cargamos los paquetes
+```{r}
+library(sf)
+library(tidyverse)
+library(tmap)
+library(mapview)
+
+```
+
+# Cargamos el shape de mexico
+```{r}
+
+```
+
+# Crear una imagen es muy sencilo
+```{r}
+
+```
+
+# Estilo a nuestro mapa
+
+```{r}
+
+```
+
+# Calculando centroides
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+
+
+
+# Mapa interactivo
+
+```{r}
+
+
+```
+
+
+# Filtrado
+
+```{r}
+
+```
+
+```{r}
+
+``` 
+

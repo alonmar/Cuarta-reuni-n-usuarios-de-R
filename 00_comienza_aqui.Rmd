@@ -1,0 +1,20 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Para realizar los ejemplos necesitas instalar los siguientes paquetes.
+
+Paquetes que necesarios
+
+```{r}
+
+if(!require("sf")) install.packages("sf")
+if(!require("tidyverse")) install.packages("tidyverse")
+if(!require("tmap")) install.packages("tmap")
+if(!require("mapview")) install.packages("mapview")
+
+
+```
+
+
